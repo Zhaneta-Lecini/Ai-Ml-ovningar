@@ -9,5 +9,5 @@ Detta repository innehåller mina lösningar och kodövningar från kurslitterat
 ## 🛠️ Tekniker & Verktyg
 * **Språk:** Python
 * **Bibliotek:** Pandas, NumPy, Scikit-learn
-* **Modeller:** Linear Regression, Decision Tree Regressor[cite: 1]
+* **Modeller:** Linear Regression, Decision Tree Regressor
 * **Miljö:** Jupyter Notebook i Visual Studio Code
